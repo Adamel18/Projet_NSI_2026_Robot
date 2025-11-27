@@ -3,4 +3,4 @@
 
 Avancements du projet : 
 
-On code actuellement avec le logiciel Mu qui est adapté pour la programmation avec Microbit, on a aussi crée une classe Minicar qui permet d'utiliser les differents composants de la machine. Cependant on a du mal a faire la connection entre le logiciel et la machine.
+On code actuellement avec le logiciel Mu qui est adapté pour la programmation avec Microbit, on a aussi crée une classe Minicar qui permet d'utiliser les differents composants de la machine. Actuellement nous avons les premiers resultats avec la machine qui peut avancer et reagis en se tournant dès lors qu'elle detecte un obstacle avec les capteurs d'ondes.
